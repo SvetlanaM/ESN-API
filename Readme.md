@@ -22,3 +22,11 @@ DELETE  : To delete resource
 - 404 `Not Found` - resource was not found.
 - 405 `Method Not Allowed` - requested method is not supported for resource.
 - 500 `Internal Server Error` - server error
+
+# Authentication
+<table>
+    <tr>
+        <td> Token </td>
+        <td> Token/API key </td>
+    </tr>
+</table>
